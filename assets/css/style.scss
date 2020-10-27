@@ -13,7 +13,6 @@ $header-heading-color: 	#51422c;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-repeat: no-repeat;
   background-position: center;
 
   @include large {
