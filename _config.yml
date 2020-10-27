@@ -1,0 +1,9 @@
+title: Sea ice MURI
+description: MURI to study sea ice
+author: the MURI team
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
