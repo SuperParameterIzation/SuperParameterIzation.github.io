@@ -6,4 +6,4 @@ layout: default
 
 yup
 
-<a href="./spipack/documentation/doxygen_output/html/index.html" target="_top">DOCUMENTATION</a>
+<a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
