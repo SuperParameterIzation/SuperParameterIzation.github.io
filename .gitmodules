@@ -1,3 +1,3 @@
 [submodule "spipack"]
 	path = spipack
-	url = git@github.com:SuperParameterIzation/spipack.git
+	url = https://github.com/SuperParameterIzation/spipack.git
