@@ -1,6 +1,6 @@
-title: Sea ice MURI
-description: MURI to study sea ice
-author: the MURI team
+title: SuperParametIzation package
+description: Software for superparameterization
+author: Andy Davis
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links

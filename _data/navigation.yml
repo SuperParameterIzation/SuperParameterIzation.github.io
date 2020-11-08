@@ -4,5 +4,8 @@ docs:
 - title: Home
   url: index.html
 
+- title: spiTools
+  url: spiTS.html
+
 - title: Software
   url: software.html
