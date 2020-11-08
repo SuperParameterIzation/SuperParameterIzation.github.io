@@ -14,3 +14,5 @@ spiTools is a library of numerical tools required for superparameterization.
 <a href="./spipack/examples/NumericalSolvers/heat-matrix-eigenvalues/description.md" target="_top">link</a>
 
 [link to second file](./spipack/examples/NumericalSolvers/heat-matrix-eigenvalues/description.md)
+
+[link to second file site](https://superparameterization.github.io./spipack/examples/NumericalSolvers/heat-matrix-eigenvalues/description.md)
