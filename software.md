@@ -1,6 +1,7 @@
 ---
 title: Software
 layout: default
+usemathjax: true
 ---
 ## Software projects
 
