@@ -7,7 +7,7 @@ use_math: true
 
 this this
 
-<a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
+<a href="./spipack/documentation/html/" target="_top">DOCUMENTATION</a>
 
 TST added to head:
 
@@ -27,4 +27,4 @@ MathJax.Hub.Config({
 
 TEST again commenthere:
 
-[doc](./spipack/documentation/html/index.html)
+[doc](./spipack/documentation/html/)
