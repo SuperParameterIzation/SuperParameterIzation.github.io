@@ -1,11 +1,10 @@
 ---
 title: Software
 layout: default
-use_math: true
 ---
 ## Software projects
 
-updated
+this this
 
 <a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
 
