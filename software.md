@@ -5,7 +5,7 @@ use_math: true
 ---
 ## Software projects
 
-changed
+updated
 
 <a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
 
