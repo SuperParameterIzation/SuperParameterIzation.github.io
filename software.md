@@ -12,16 +12,19 @@ changed
 TST added to head:
 
 <html lang="en-US">
-    <head>
-    <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
-    </head>
-    <body>
-        <a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
-    </body>
+<head>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ["tex2jax.js"],
+  jax: ["input/TeX","output/HTML-CSS"],
+  });
+  </script><script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+</head>
+<body>
+  <a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
+</body>
 </html>
 
-TEST again:
+TEST again commenthere:
 
 [doc](./spipack/documentation/html/index.html)
