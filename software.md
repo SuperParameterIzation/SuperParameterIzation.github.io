@@ -13,8 +13,9 @@ TST:
 
 <html lang="en-US">
     <head>
-        <meta charset="UTF-8">
-        <title>Page Redirection</title>
+    <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
     </head>
     <body>
         <a href="./spipack/documentation/html/index.html" target="_top">DOCUMENTATION</a>
