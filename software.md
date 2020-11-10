@@ -1,7 +1,7 @@
 ---
 title: Software
 layout: default
-usemathjax: true
+use_math: true
 ---
 ## Software projects
 

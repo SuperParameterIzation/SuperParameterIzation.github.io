@@ -2,6 +2,7 @@ title: SuperParametIzation package
 description: Software for superparameterization
 author: Andy Davis
 theme: jekyll-theme-cayman
+markdown: kramdown
 plugins:
   - jekyll-relative-links
 relative_links:
