@@ -11,4 +11,4 @@ spiNumericalSolvers is a library of numerical solvers required for superparamete
 
 ## Examples
 
-[heat matrix eigenvalues](./spipack/examples/NumericalSolvers/heat-matrix-eigenvalues/description.md)
+[heat matrix eigenvalues](./spipack/examples/NumericalSolvers/density-estimation/description.md)
