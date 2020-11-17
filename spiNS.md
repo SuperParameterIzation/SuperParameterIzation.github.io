@@ -13,4 +13,4 @@ spiNumericalSolvers is a library of numerical solvers required for superparamete
 
 [density estimation](./spipack/examples/NumericalSolvers/density-estimation/description.md)
 
-[density estimation](./spipack/examples/NumericalSolvers/Kolmogorov-operator/description.md)
+[Kolmogorov operator](./spipack/examples/NumericalSolvers/Kolmogorov-operator/description.md)
