@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
-## Header goes here
+
+# Header goes here
 
 text text text

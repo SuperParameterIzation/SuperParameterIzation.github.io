@@ -3,8 +3,8 @@ title: spiTools
 layout: default
 ---
 
-## spiTools
+# spiTools
 
 spiTools is a library of tools required for superparameterization.
 
-## Examples
+# Examples

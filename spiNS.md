@@ -3,14 +3,13 @@ title: spiNumericalSolvers
 layout: default
 ---
 
-## spiNumericalSolvers
+# spiNumericalSolvers
 
 spiNumericalSolvers is a library of numerical solvers required for superparameterization.
 
 - graph Laplacian
 
-## Examples
+# Examples
 
-[density estimation](./spipack/examples/NumericalSolvers/density-estimation/description.md)
-
-[Kolmogorov operator](./spipack/examples/NumericalSolvers/Kolmogorov-operator/description.md)
+- [Density estimation](./spipack/examples/NumericalSolvers/density-estimation/description.md)
+- [Kolmogorov operator](./spipack/examples/NumericalSolvers/Kolmogorov-operator/description.md)
