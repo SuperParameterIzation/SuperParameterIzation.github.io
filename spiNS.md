@@ -12,4 +12,4 @@ spiNumericalSolvers is a library of numerical solvers required for superparamete
 # Examples
 
 - [Density estimation](./spipack/examples/NumericalSolvers/density-estimation/description.md)
-- [Kolmogorov operator](./spipack/examples/NumericalSolvers/Kolmogorov-operator/description.md)
+- [Kolmogorov operator](./spipack/examples/NumericalSolvers/Kolmogorov-eigendecomposition/description.md)
