@@ -7,4 +7,4 @@ layout: default
 
 # Examples
 
-- [Density estimation](./spipack/examples/KineticEquations/vary-external-acceleration/description.md)
+- [Vary external acceleration](./spipack/examples/KineticEquations/vary-external-acceleration/description.md)
